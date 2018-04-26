@@ -1,6 +1,6 @@
 # Learning Docker
 
-## Terminologies:
+## Docker Terminologies:
 
 ### Images: 
 > The blueprints of our application which form the basis of containers.
@@ -16,3 +16,21 @@
 
 ### Docker Hub:
 > A registry of Docker images. You can think of the registry as a directory of all available Docker images. If required, one can host their own Docker registries and can use them for pulling images.
+
+
+## Docker Compose Terminologies:
+
+### Docker Machine:
+> Create Docker hosts on your computer, on cloud providers, and inside your own data center.
+
+### Docker Compose:
+> A tool for defining and running multi-container Docker applications.
+
+### Docker Swarm:
+> A native clustering solution for Docker.
+
+
+## Docker Compose
+
+- Compose is a tool that is used for defining and running multi-container Docker apps in an easy way. It provides a configuration file called `docker-compose.yml` that can be used to bring up an application and the suite of services it depends on with just one command.
+
