@@ -1,0 +1,13 @@
+{
+  "name": "docker-nodejs",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Shashank Shekhar <shashank7200@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
